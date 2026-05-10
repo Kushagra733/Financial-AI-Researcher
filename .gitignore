@@ -1,0 +1,10 @@
+# Credentials — never commit
+.env
+
+# Build output
+/sentinel
+/bin/
+
+# Go toolchain
+*.test
+*.out
